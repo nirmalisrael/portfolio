@@ -1,0 +1,10 @@
+/* Global styles */
+body {
+    padding-top: 56px; /* Adjust if navbar height changes */
+  }
+  
+  /* Ensure navbar links look and behave correctly */
+  .navbar-nav .nav-link {
+    cursor: pointer;
+  }
+  
